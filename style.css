@@ -1,0 +1,945 @@
+/* global.scss */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+
+
+.untitled-page.main {
+  background-color: rgb(23, 26, 38);
+  display: flex;
+  flex-direction: column;
+  padding: undefinedpx undefinedpx undefinedpx undefinedpx;
+  position: relative;
+}
+.untitled-page .section1 {
+  display: flex;
+  flex-direction: column;
+  min-height: 689px;
+  position: relative;
+}
+.untitled-page .flex_col {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 83px 0px;
+  margin: 255px 6.81% 46px 8.33%;
+  position: relative;
+  width: 84.86%;
+}
+.untitled-page .flex_row {
+  display: flex;
+  gap: 0px 362px;
+  position: relative;
+}
+.untitled-page .flex_col1 {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 0px 7px;
+  min-width: 0px;
+  position: relative;
+  width: 322px;
+}
+.untitled-page .info {
+  color: rgb(97, 94, 214);
+  font: 400 12px/1.33 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: -0.4px;
+}
+.untitled-page .hero_title {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 48px/1.45 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 20px 0px 0px;
+}
+.untitled-page .rect1 {
+  background-color: rgba(97, 94, 214, 0.4);
+  border-radius: 4px 4px 4px 4px;
+  margin: 40px auto 0px 0px;
+  min-height: 12px;
+  opacity: 0.6;
+  width: 80px;
+}
+.untitled-page .flex_col2 {
+  display: flex;
+  flex-direction: column;
+  min-width: 0px;
+  position: relative;
+  width: 538px;
+}
+.untitled-page .flex_row1 {
+  display: flex;
+  gap: 0px 18px;
+  position: relative;
+}
+.untitled-page .rect2 {
+  background-color: rgba(97, 94, 214, 0.4);
+  border-radius: 0.5px 0.5px 0.5px 0.5px;
+  margin: 6px 0px;
+  min-height: 3px;
+  min-width: 0px;
+  width: 14px;
+}
+.untitled-page .info3 {
+  color: rgb(97, 94, 214);
+  font: 400 12px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  min-width: 0px;
+  width: 113px;
+}
+.untitled-page .title {
+  color: rgba(255, 255, 255, 0.898);
+  font: 400 28px/1.57 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 20px 0px 0px;
+}
+.untitled-page .paragraph_box {
+  margin: 28px 13px 0px 0px;
+}
+.untitled-page .paragraph {
+  color: rgb(131, 133, 153);
+  font: 400 14px/2 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+}
+.untitled-page .paragraph_span0 {
+  font: 1em/2 "Libre Baskerville", Helvetica, Arial, serif;
+}
+.untitled-page .paragraph_span1 {
+  font: 700 1em/2 "Libre Baskerville", Helvetica, Arial, serif;
+}
+.untitled-page .paragraph_span2 {
+  font: 1em/2 "Libre Baskerville", Helvetica, Arial, serif;
+}
+.untitled-page .box button {
+  background-color: rgb(97, 94, 214);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto 0px 0px;
+  position: relative;
+  width: 34.78%;
+}
+.untitled-page .highlight2 {
+  color: rgba(255, 255, 255, 0.898);
+  flex-grow: 1;
+  font: 700 18px/1.22 "Libre Baskerville", Helvetica, Arial, serif;
+  height: 22px;
+  letter-spacing: 0px;
+  margin: 24px 172px;
+  width: 81px;
+}
+.untitled-page .flex_row2 {
+  bottom: 80px;
+  display: flex;
+  gap: 0px 29px;
+  height: 23px;
+  position: absolute;
+  right: 21.18%;
+  width: 125px;
+}
+.untitled-page .icon2 {
+  height: 23px;
+  min-height: 23px;
+  min-width: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 24px;
+}
+.untitled-page .icon3 {
+  height: 23px;
+  min-height: 23px;
+  min-width: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 23px;
+}
+.untitled-page .image4 {
+  height: 16px;
+  margin: 4px 0px 3px;
+  min-height: 16px;
+  min-width: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 20px;
+}
+.untitled-page .section2 {
+  display: flex;
+  flex-direction: column;
+  min-height: 965px;
+  position: relative;
+}
+.untitled-page .flex_col3 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 134px 10.14% 50px 8.33%;
+  position: relative;
+  width: 81.53%;
+}
+.untitled-page .hero_title1 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 50px/1.24 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 5px;
+}
+.untitled-page .flex_col4 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px 0px;
+  margin: 40px 0px 0px;
+  position: relative;
+}
+.untitled-page .rect11 {
+  background-color: rgba(97, 94, 214, 0.4);
+  border-radius: 4px 4px 4px 4px;
+  margin: 0px auto 0px 5px;
+  min-height: 12px;
+  opacity: 0.6;
+  width: 80px;
+}
+.untitled-page .highlight4 {
+  color: rgb(131, 133, 153);
+  display: flex;
+  font: 400 18px/2 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.untitled-page .flex_col5 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px 0px;
+  margin: 81px 0px 0px;
+  position: relative;
+}
+.untitled-page .flex_row3 {
+  display: flex;
+  gap: 0px 86px;
+  position: relative;
+}
+.untitled-page .box2 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 12px 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  min-width: 0px;
+  overflow: hidden;
+  position: relative;
+  width: 334px;
+}
+.untitled-page .flex_col6 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 63px 21.26% 47px 31.44%;
+  position: relative;
+  width: 47.31%;
+}
+.untitled-page .image {
+  height: 30px;
+  margin: 0px 51.27% 0px 27.22%;
+  min-height: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 34px;
+}
+.untitled-page .highlight3 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 27px 39px 0px;
+}
+.untitled-page .info1 {
+  color: rgb(176, 177, 188);
+  font: 400 12px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 6px 0px 0px;
+}
+.untitled-page .box3 {
+  background-color: rgba(97, 94, 214, 0.498);
+  border-radius: 12px 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  min-width: 0px;
+  overflow: hidden;
+  position: relative;
+  width: 334px;
+}
+.untitled-page .flex_col7 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 64px auto 39px;
+  position: relative;
+  width: 97px;
+}
+.untitled-page .image1 {
+  height: 38px;
+  margin: 0px 35px;
+  min-height: 38px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 27px;
+}
+.untitled-page .highlight31 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 26px 0px 0px;
+}
+.untitled-page .info11 {
+  color: rgb(176, 177, 188);
+  font: 400 12px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 6px 27px 0px 28px;
+}
+.untitled-page .box4 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 12px 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  min-width: 0px;
+  overflow: hidden;
+  position: relative;
+  width: 334px;
+}
+.untitled-page .flex_col8 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 63px 26.65% 47px 32.93%;
+  position: relative;
+  width: 40.42%;
+}
+.untitled-page .image2 {
+  height: 34px;
+  margin: 0px auto;
+  min-height: 34px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 30px;
+}
+.untitled-page .highlight32 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 23px 33px 0px 34px;
+}
+.untitled-page .box1 a {
+  background-color: rgb(97, 94, 214);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto;
+  position: relative;
+  width: 36.2%;
+}
+.untitled-page .highlight21 {
+  color: rgba(255, 255, 255, 0.898);
+  flex-grow: 1;
+  font: 700 18px/1.22 "Libre Baskerville", Helvetica, Arial, serif;
+  height: 22px;
+  letter-spacing: 0px;
+  margin: 24px 119px;
+  width: 187px;
+}
+.untitled-page .section3 {
+  display: flex;
+  flex-direction: column;
+  min-height: 443px;
+  position: relative;
+}
+.untitled-page .box11 {
+  background-color: rgba(97, 94, 214, 0.149);
+  border-radius: 20px 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 48px 229px 69px;
+  min-height: 326px;
+  outline: 1px dashed rgba(255, 255, 255, 0.6);
+  outline-offset: -1px;
+  overflow: hidden;
+  position: relative;
+}
+.untitled-page .flex_col9 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 19px 0px;
+  margin: 29px auto 34px;
+  position: relative;
+  width: 79.33%;
+}
+.untitled-page .subtitle {
+  color: rgb(97, 94, 214);
+  display: flex;
+  font: 400 20px/1.4 "Playball", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto;
+  text-align: center;
+  width: 70px;
+}
+.untitled-page .flex_row4 {
+  display: flex;
+  gap: 0px 48px;
+  position: relative;
+}
+.untitled-page .flex_col10 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0px;
+  margin: 0px 0px 12px;
+  min-width: 0px;
+  position: relative;
+  width: 86px;
+}
+.untitled-page .text {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px 39px 0px 0px;
+  text-align: center;
+}
+.untitled-page .text1 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.untitled-page .text2 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px 11px 0px 0px;
+  text-align: center;
+}
+.untitled-page .text3 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px 40px 0px 0px;
+  text-align: center;
+}
+.untitled-page .text4 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 44px;
+}
+.untitled-page .text5 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 43px;
+}
+.untitled-page .flex_col11 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0px;
+  margin: 0px 0px 12px;
+  min-width: 0px;
+  position: relative;
+  width: 147px;
+}
+.untitled-page .text6 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 76px;
+}
+.untitled-page .text7 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 100px;
+}
+.untitled-page .text8 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 81px;
+}
+.untitled-page .text9 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 45px;
+}
+.untitled-page .flex_col12 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0px;
+  min-width: 0px;
+  position: relative;
+  width: 227px;
+}
+.untitled-page .text10 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 71px;
+}
+.untitled-page .text11 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 70px;
+}
+.untitled-page .text12 {
+  color: rgb(176, 177, 188);
+  display: flex;
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  justify-content: center;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  text-align: center;
+  width: 86px;
+}
+.untitled-page .text13 {
+  color: rgb(176, 177, 188);
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px auto 0px 0px;
+  width: 77.97%;
+}
+.untitled-page .text14 {
+  color: rgb(176, 177, 188);
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+}
+.untitled-page .flex_col13 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0px;
+  margin: 0px 0px 48px;
+  min-width: 0px;
+  position: relative;
+  width: 175px;
+}
+.untitled-page .text15 {
+  color: rgb(176, 177, 188);
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 12px 0px 0px;
+}
+.untitled-page .text16 {
+  color: rgb(176, 177, 188);
+  font: 700 13px/1.84 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 33px 0px 0px;
+}
+.untitled-page .section4 {
+  display: flex;
+  flex-direction: column;
+  min-height: 1045px;
+  position: relative;
+}
+.untitled-page .icon {
+  bottom: 200px;
+  height: 36px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 45.69%;
+  width: 36px;
+}
+.untitled-page .icon1 {
+  height: 36px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 45.69%;
+  top: 651px;
+  width: 36px;
+}
+.untitled-page .icon4 {
+  height: 36px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 45.69%;
+  top: 493px;
+  width: 36px;
+}
+.untitled-page .icon5 {
+  height: 36px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 45.69%;
+  top: 335px;
+  width: 36px;
+}
+.untitled-page .image3 {
+  border-radius: 3px 3px 3px 3px;
+  height: 744px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 46.74%;
+  top: 218px;
+  width: 6px;
+}
+.untitled-page .flex_col14 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 159px 0px;
+  margin: 71px 24.51% 187px 8.68%;
+  position: relative;
+  width: 66.81%;
+}
+.untitled-page .flex_col15 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px 0px;
+  margin: 0px auto 0px 0px;
+  position: relative;
+  width: 31.29%;
+}
+.untitled-page .hero_title11 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 50px/1.24 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+}
+.untitled-page .rect12 {
+  background-color: rgba(97, 94, 214, 0.4);
+  border-radius: 4px 4px 4px 4px;
+  margin: 0px auto 0px 0px;
+  min-height: 12px;
+  opacity: 0.6;
+  width: 80px;
+}
+.untitled-page .flex_row5 {
+  display: flex;
+  gap: 0px 232px;
+  margin: 0px 0px 0px auto;
+  position: relative;
+  width: 81.5%;
+}
+.untitled-page .flex_col16 {
+  display: flex;
+  flex-direction: column;
+  min-width: 0px;
+  position: relative;
+  width: 365px;
+}
+.untitled-page .highlight5 {
+  color: rgb(97, 94, 214);
+  font: 700 18px/1.22 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+}
+.untitled-page .info2 {
+  color: rgb(215, 217, 239);
+  font: 700 12px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 6px 0px 0px;
+}
+.untitled-page .highlight51 {
+  color: rgb(97, 94, 214);
+  font: 700 18px/1.22 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 114px 0px 0px;
+}
+.untitled-page .flex_col17 {
+  display: flex;
+  flex-direction: column;
+  gap: 137px 0px;
+  margin: 0px 0px 23px;
+  min-width: 0px;
+  position: relative;
+  width: 187px;
+}
+.untitled-page .highlight6 {
+  color: rgb(131, 133, 153);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 14px;
+}
+.untitled-page .highlight61 {
+  color: rgb(131, 133, 153);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 3px 0px 10px;
+}
+.untitled-page .highlight62 {
+  color: rgb(131, 133, 153);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 0px 0px 6px;
+}
+.untitled-page .highlight63 {
+  color: rgb(131, 133, 153);
+  font: 700 16px/1.25 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px 14px 0px 0px;
+}
+.untitled-page .section5 {
+  display: flex;
+  flex-direction: column;
+  min-height: 605px;
+  position: relative;
+}
+.untitled-page .box5 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  height: 254px;
+  overflow: hidden;
+  position: absolute;
+  right: -744px;
+  top: 221px;
+  width: 492px;
+}
+.untitled-page .box7 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  height: 254px;
+  overflow: hidden;
+  position: absolute;
+  right: -180px;
+  top: 221px;
+  width: 492px;
+}
+.untitled-page .rect4 {
+  background-color: rgb(97, 94, 214);
+  flex-grow: 1;
+  margin: 81px auto 108px 30px;
+  min-height: 65px;
+  width: 1px;
+}
+.untitled-page .desc {
+  color: rgb(176, 177, 188);
+  font: 400 12px/1.83 "Poppins", Helvetica, Arial, serif;
+  height: 110px;
+  left: 59px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 58px;
+  width: 404px;
+}
+.untitled-page .image8 {
+  height: 65px;
+  left: 0%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+.untitled-page .flex_col18 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 37px auto 49px 0px;
+  position: relative;
+  width: 73.33%;
+}
+.untitled-page .hero_title12 {
+  color: rgba(255, 255, 255, 0.898);
+  font: 700 50px/1.24 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 0px auto;
+  width: 75.95%;
+}
+.untitled-page .rect13 {
+  background-color: rgba(97, 94, 214, 0.4);
+  border-radius: 4px 4px 4px 4px;
+  margin: 40px 80.4% 0px 12.03%;
+  min-height: 12px;
+  opacity: 0.6;
+  width: 7.58%;
+}
+.untitled-page .flex_row6 {
+  display: flex;
+  gap: 0px 72px;
+  margin: 70px 0px 0px;
+  position: relative;
+}
+.untitled-page .group {
+  display: flex;
+  flex-direction: column;
+  min-height: 254px;
+  min-width: 0px;
+  position: relative;
+  width: 492px;
+}
+.untitled-page .image5 {
+  height: 12px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 8.13%;
+  top: 25px;
+  width: 16px;
+}
+.untitled-page .group1 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 254px;
+  position: relative;
+}
+.untitled-page .rect41 {
+  background-color: rgb(97, 94, 214);
+  height: 65px;
+  left: 6.1%;
+  position: absolute;
+  top: 94px;
+  width: 1px;
+}
+.untitled-page .box6 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 48px 0px;
+  min-width: 0px;
+  overflow: hidden;
+  position: relative;
+}
+.untitled-page .desc1 {
+  color: rgb(176, 177, 188);
+  font: 400 12px/1.83 "Poppins", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 50px 26px 0px auto;
+  width: 82.72%;
+}
+.untitled-page .text17 {
+  color: rgb(215, 217, 239);
+  display: flex;
+  font: 500 14px/1.5 "Poppins", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  letter-spacing: 0px;
+  margin: 0px 38px 9px;
+  text-align: right;
+}
+.untitled-page .image6 {
+  height: 58px;
+  left: 0%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.untitled-page .rect42 {
+  background-color: rgb(97, 94, 214);
+  height: 65px;
+  left: 6.1%;
+  position: absolute;
+  top: 101px;
+  width: 1px;
+}
+.untitled-page .box61 {
+  background-color: rgba(97, 94, 214, 0.2);
+  border-radius: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 0px;
+  overflow: hidden;
+  position: relative;
+}
+.untitled-page .desc2 {
+  color: rgb(176, 177, 188);
+  font: 400 12px/1.83 "Poppins", Helvetica, Arial, serif;
+  letter-spacing: 0px;
+  margin: 56px 29px 0px auto;
+  width: 82.11%;
+}
+.untitled-page .text18 {
+  color: rgb(215, 217, 239);
+  display: flex;
+  font: 500 14px/1.5 "Poppins", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  letter-spacing: 0px;
+  margin: 14px 37px 9px;
+  text-align: right;
+}
+.untitled-page .image7 {
+  height: 61px;
+  left: 0%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+.untitled-page .highlight8 {
+  color: rgb(215, 217, 239);
+  display: flex;
+  font: 400 16px/1.5 "Poppins", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  letter-spacing: 0px;
+  margin: 57px auto 0px;
+  text-align: right;
+  width: 51.7%;
+}
+.untitled-page .section6 {
+  display: flex;
+  flex-direction: column;
+  min-height: 123px;
+  position: relative;
+}
+.untitled-page .info4 {
+  color: rgb(131, 133, 153);
+  flex-grow: 1;
+  font: 400 12px/2 "Libre Baskerville", Helvetica, Arial, serif;
+  letter-spacing: -0.7px;
+  margin: 83px 630px 16px 615px;
+}/*# sourceMappingURL=style.css.map */
